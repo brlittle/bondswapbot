@@ -1,10 +1,10 @@
 import sys
 import twitter, os, time, random
 
-api = twitter.Api(consumer_key='tx96cAqBxlmzLSmIyfLO4w',
-                  consumer_secret='9hVpmjvjsmacV73tuAYPwqBer8NPUOpRGWmh4Ay1VY',
-                  access_token_key='1922646931-6CWDP4cYUdWvL6E7XrtYzbnQM8sgWM684qIWif3',
-                  access_token_secret='zYOAtmM1ouVE9M95ybSe5Z3seKgknd6N6PWJVCc')
+api = twitter.Api(consumer_key='',
+                  consumer_secret='',
+                  access_token_key='',
+                  access_token_secret='')
 
 # open file in read mode
 file = open("bond.txt", "r")
